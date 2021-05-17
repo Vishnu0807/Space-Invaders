@@ -15,8 +15,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1rvMonUHB3EgntsKb8v1N1SNi2i" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="discord-application" />
   </component>
   <component name="RecentsManager">
@@ -36,7 +41,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.main">
+  <component name="RunManager" selected="Python.mainnn">
     <configuration type="PythonConfigurationType" factoryName="Python">
       <module name="game.py" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -172,9 +177,9 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.main" />
         <item itemvalue="Python.mainnn" />
         <item itemvalue="Python.mainn" />
+        <item itemvalue="Python.main" />
         <item itemvalue="Python.main (1)" />
       </list>
     </recent_temporary>
@@ -191,5 +196,16 @@
       <updated>1619852287057</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
